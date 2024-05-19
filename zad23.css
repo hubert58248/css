@@ -1,0 +1,39 @@
+
+#pogrubienie_medu{
+    font-size: 35px;
+    color: rgb(130, 92, 203);
+    font-weight: bold;
+}
+
+#pochylona_medu {
+    font-size: 40px;
+    color: rgb(240, 192, 103);
+    font-style: oblique;
+}
+#index_gorny_medu {
+    font-size: 1.5cm;
+    color: rgb(60, 142, 23);
+    text-transform: uppercase;
+}
+
+#index_dolny_medu {
+    font-size: 5.5cm;
+    color: rgb(60, 242, 223);
+    text-transform: lowercase;
+}
+
+#mono_medu {
+    font-size: 45px;
+    color: rgb(32, 222, 103);
+    font-family: monospace;
+}
+
+#powiekszenie_medu {
+    color: rgb(90, 62, 153);
+    transform: scale(1.25);
+    padding-left: 100px;
+}
+#pomniejszenie_medu {
+    color: rgb(190, 162, 53);
+    transform: scale(0.75);
+}
